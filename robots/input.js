@@ -22,4 +22,4 @@ function robot() {
         return selectedPrefixText
     }
 }
-modulo.exports = robot
+module.exports = robot
