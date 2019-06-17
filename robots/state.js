@@ -12,7 +12,7 @@ function load(){
     return contentJson
 }
 
-modulo.exports = {
+module.exports = {
     save,
     load
 }
