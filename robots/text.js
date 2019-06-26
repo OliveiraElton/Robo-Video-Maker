@@ -115,5 +115,3 @@ async function robot() {
 	}
 	
 	module.exports = robot
-
-	//Video atual Node JS read file
